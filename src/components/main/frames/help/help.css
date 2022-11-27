@@ -1,0 +1,27 @@
+.helpFrameMainBckgr {
+    width: 100vw;
+    text-align: center;
+    align-items: center;
+}
+
+.helpBtn {
+    width: auto;
+    padding: 3vw 5vw;
+    color: #ffffff;
+    font-family: 'Bellota', cursive;
+    background-color: #000000;
+    border: 0px;
+    border-radius: 2.5vw;
+    font-size: 4vw;
+    box-shadow: 1px 1px 8px #00000080;
+    margin-bottom: 6vh;
+}
+
+.helpBtn:active {
+    box-shadow: 1px 1px 8px #00000000;
+}
+
+.helpFrameDescription {
+    padding-top: 10vh;
+    padding-bottom: 4vh;
+}

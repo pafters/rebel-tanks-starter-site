@@ -1,0 +1,28 @@
+.menuIcon {
+    height: 6vh;
+    width: 6vh;
+}
+
+.menuItem {
+    border-bottom: solid 0.1vh #bfbdff;
+    color: #F0F8FF;
+    text-decoration: none;
+    display: flex;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.iconBtn {
+    border-bottom: solid 0.1vh #bfbdff;
+}
+
+.menuItem:active {
+    background-color: #2823be;
+}
+
+.textItem {
+    color: #ffffff;
+    font-size: 5vw;
+}

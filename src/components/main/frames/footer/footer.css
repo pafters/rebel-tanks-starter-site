@@ -1,0 +1,36 @@
+.wave {
+    width: 100vw;
+    content: url(../../../../assets/futer/wave.svg);
+}
+
+.footerTextContent {
+    font-family: 'Bellota', cursive;
+    font-size: 3vw;
+}
+
+.footerLinkContainer {
+    width: 100vw;
+    background-color: #ffffff;
+    margin-top: -8vh;
+    height: auto;
+    text-align: center;
+    align-items: center;
+}
+
+.footerLinkInnerContainer {
+    padding-top: 4vh;
+}
+
+.footerEmailContainer {
+    margin-bottom: 8vh;
+    align-items: center;
+    text-align: center;
+}
+
+.footerLinkSpace {
+    margin-left: 10vw;
+}
+
+a:active {
+    color: #FF2342;
+}

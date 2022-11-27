@@ -1,0 +1,44 @@
+.logoBckgrContainer {
+    width: 100vw;
+    height: 80vh;
+    background-color: #63219C;
+    position: relative;
+}
+
+.logoInnerDiv {
+    width: 80vw;
+    min-height: 80vh;
+    position: relative;
+    top: -74vh;
+    background-color: #8A43C8;
+    left: 10vw;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.logoGameIcon {
+    height: 25vw;
+    content: url(../../../../assets/icon-white.svg);
+}
+
+.logoPlayBtn {
+    font-size: 1.2em;
+    text-shadow: 1px 1px 4px #00000080;
+    height: 10vh;
+    width: 50vw;
+    background-color: #FF2342;
+    border: 0px;
+    color: #ffffff;
+    box-shadow: 1px 1px 8px #00000080;
+}
+
+.logoPlayBtn:active {
+    box-shadow: 1px 1px 8px #00000000;
+}
+
+.playBtnContainer {
+    position: absolute;
+    bottom: 6vh;
+    height: 10vh;
+}

@@ -1,0 +1,71 @@
+.contactPageContainer {
+    width: 70vw;
+    height: auto;
+    margin-left: 15vw;
+    margin-top: 15vh;
+}
+
+.contactPageDescription {
+    text-align: center;
+}
+
+.inputForm {
+    width: 80%;
+    height: auto;
+}
+
+.questionForm {
+    width: 97%;
+    height: 20vh;
+    resize: none;
+}
+
+.inputFormStyle {
+    border: 0px;
+    border-radius: 2vh;
+    background-color: #D9D9D9;
+    color: #2F2F2F;
+    font-family: 'Bellota Text', cursive;
+    font-size: 1.2em;
+    padding: 1.5vh;
+}
+
+.inputFormStyle::placeholder {
+    color: #2F2F2F;
+    font-family: 'Bellota Text', cursive;
+    font-size: 1.2em;
+    position: absolute;
+    top: 1.5vh;
+    left: 1.5vh;
+}
+
+.errorForm {
+    color: #FF2342;
+}
+
+.valideForm {
+    color: #000000;
+}
+
+.sendQuestionBtn {
+    padding: 2vh 4vw;
+    color: #ffffff;
+    background-color: #FF2342;
+    border: 0px;
+    border-radius: 6vh;
+    float: right;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+.sendQuestionBtn:active {
+    background-color: #352DFF;
+}
+
+.errorBtn {
+    background-color: #a88a8e;
+}
+
+.errorBtn:active {
+    background-color: #c1a4a8;
+}

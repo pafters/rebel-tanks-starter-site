@@ -1,0 +1,117 @@
+.gameTutorSideBckgr {
+    width: 100vw;
+    min-height: 20vh;
+    text-align: center;
+    background: linear-gradient(180deg, #63219C 0, #63219C00 100%);
+}
+
+.gameTutorDescription {
+    width: 60vw;
+    margin-left: 20vw;
+}
+
+.gameTutorGameplayIndicator {
+    width: 35vw;
+}
+
+.gameplayOuterDiv {
+    display: flex;
+    margin-top: 4vh;
+}
+
+.gameplayInnerDiv {
+    margin-left: 10vw;
+}
+
+.lvlUpOuterDiv {
+    display: flex;
+}
+
+.lvlUpInnerDiv {
+    margin-left: 10vw;
+}
+
+.lvlUpIndicator {
+    width: 60vw;
+    margin-left: 15vw;
+}
+
+.lvlUpImageContainer {
+    margin-top: -4vw;
+}
+
+.teamBlue {
+    height: 30vw;
+    width: 30vw;
+    content: url(../../../../assets/game-tutorial/team-blue.png);
+}
+
+.teamRed {
+    height: 30vw;
+    width: 30vw;
+    content: url(../../../../assets/game-tutorial/team-red.png);
+}
+
+.gameplay {
+    height: 50vw;
+    width: 50vw;
+    content: url(../../../../assets/game-tutorial/gameplay.svg);
+}
+
+.lvlsUp {
+    height: 50vw;
+    width: 50vw;
+    position: relative;
+    content: url(../../../../assets/game-tutorial/lvls-up.svg);
+}
+
+.stonksArrow {
+    height: 70vw;
+    width: 70vw;
+    margin-top: -60vw;
+    content: url(../../../../assets/game-tutorial/stonks-arrow.svg);
+}
+
+.rankSystem {
+    height: 40vw;
+    width: 90vw;
+    content: url(../../../../assets/game-tutorial/rank-system.svg);
+}
+
+.rankSystemContainer {
+    margin-left: 5vw;
+    padding-bottom: 10vh;
+}
+
+.rankSystemIndicator {
+    width: 85vw;
+    margin-bottom: 4vh;
+}
+
+.rankSystemImageContainer {
+    margin-top: 4vw;
+    display: flex;
+}
+
+.teamInfoDivSize {
+    width: 40vw;
+}
+
+.teamInfoContainer {
+    display: flex;
+    margin-top: 4vh;
+}
+
+.teamBluePosition {
+    margin-left: 5vw;
+    margin-right: 10vw;
+}
+
+.gameTutorContainer {
+    text-align: center;
+    align-items: center;
+}
+
+.gameTutorStarterTextTitlePosition {
+    padding-top: F4vh;
+}

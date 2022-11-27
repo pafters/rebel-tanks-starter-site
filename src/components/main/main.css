@@ -1,0 +1,24 @@
+.logoFrameContainer {
+    align-items: center;
+}
+
+.descriptionFrameContainer {
+    margin-top: -60vh;
+}
+
+.gameTutorFrameContainer {
+    margin-top: -10vh;
+}
+
+.mainFrameContentBckgr {
+    width: 100vw;
+    background: linear-gradient(107.89deg, #FF2342 -39.94%, #352DFF 85.83%);
+}
+
+.helpFrameContainer {
+    margin-top: -10vh;
+}
+
+.tutorialFrameContainer {
+    margin-top: 10vh;
+}

@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Bellota+Text:wght@700&display=swap');
+
+.navBar {
+    position: fixed;
+    height: 9vh;
+    background: linear-gradient(90deg, #FF2342 0%, #352DFF 100%);
+}
+
+.landscapeNavBarDiv {
+    position: fixed;
+    display: flex;
+    margin-left: 5px;
+    align-items: center;
+    max-width: 100%;
+    justify-content: center;
+}
+
+.landscapeLinktoMain {
+    position: fixed;
+    left: 40px;
+    display: flex;
+    text-decoration: none;
+}
+
+.landscapeGameIcon {
+    width: 9vh;
+    position: fixed;
+    top: 0.5vh;
+    left: 2vw;
+    content: url(../../assets/icon.svg);
+}
+
+.gameIconContainerPortrait {
+    position: fixed;
+    display: flex;
+    margin-left: 5px;
+    align-items: center;
+    min-width: 100%;
+}
+
+.gameIconPositionPortrait {
+    position: fixed;
+    left: 6vw;
+}
+
+.menuMobilePosition {
+    position: fixed;
+    right: 4vw;
+    top: 1.5vh;
+}
+
+.portraitGameIcon {
+    width: 9vh;
+    position: fixed;
+    top: 0.5vh;
+    left: 2vw;
+    content: url(../../assets/icon.svg);
+}
+
+.navBarGameName {
+    color: #ffffff;
+    font-size: 5vh;
+    position: fixed;
+    top: -3.5vh;
+    left: 16vh;
+    font-family: 'Bellota Text', cursive;
+    text-shadow: 1px 1px 4px #00000060;
+}
+
+.nvbrItem {
+    font-size: 2.5vh;
+    color: #352DFF;
+    margin: 0 auto;
+    font-weight: 700;
+    text-shadow: 0.05vh 0.05vh 0.05vh #352DFF;
+    background-color: #ffffffee;
+    border-radius: 40vh;
+    border: 0px;
+    border-radius: 40vh;
+}
+
+
+.nvbrItem :active {
+    color: #FF2342;
+    text-shadow: 0.05vh 0.05vh 0.05vh #FF2342;
+}
+
+
+.nvbrItemConteiner {
+    padding-left: 2vh;
+    padding-top: 1.2vh;
+    padding-bottom: 1.2vh;
+    padding-right: 2vh;
+    width: auto;
+    position: fixed;
+    text-decoration: none;
+    top: 1.8vh;
+}
+
+.nvbrHelpContainer {
+    right: 30vh;
+}
+
+.nvbrContactContainer {
+    right: 10vh;
+}

@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bellota+Text:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bellota:wght@700&display=swap');
+
+.whiteFontColor {
+  color: #ffffff;
+}
+
+p {
+  font-family: 'Bellota Text', cursive;
+  font-size: 1em;
+  color: #000000;
+  text-decoration: none;
+}
+
+a {
+  font-family: 'Bellota Text', cursive;
+  font-size: 1em;
+  color: #000000;
+  text-decoration: none;
+}
+
+button {
+  font-family: 'Bellota Text', cursive;
+  font-size: 1.2em;
+}
+
+.textTitleScndLvl {
+  font-size: 2em;
+  margin-bottom: 4vh;
+  font-family: 'Bellota', cursive;
+}
+
+.textTitleFrstLvl {
+  font-size: 1.2em;
+  font-family: 'Bellota', cursive;
+}

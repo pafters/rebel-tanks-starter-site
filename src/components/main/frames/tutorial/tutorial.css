@@ -1,0 +1,32 @@
+.tutorialBckgrContainer {
+    width: 100vw;
+    min-height: 100vh;
+    background: linear-gradient(#ffffff 0, #63219C 40%, #63219C 100%);
+}
+
+.tutorTextTitle {
+    font-size: 1.2em;
+    width: 60vw;
+    margin-left: 20vw;
+}
+
+.tutorItemContainer {
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
+.tvFrame {
+    content: url(../../../../assets/tutorial/tv-and-icon.svg);
+}
+
+.frame {
+    height: 40vw;
+}
+
+.tvQRScan {
+    content: url(../../../../assets/tutorial/tv-scan-qr.svg);
+}
+
+.phoneRotate {
+    content: url(../../../../assets/tutorial/rotate-phone.svg);
+}

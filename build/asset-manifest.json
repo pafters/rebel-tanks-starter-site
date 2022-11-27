@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3cda7748.css",
+    "main.js": "/static/js/main.20c66fae.js",
+    "static/js/787.76c2bc41.chunk.js": "/static/js/787.76c2bc41.chunk.js",
+    "static/media/team-red.png": "/static/media/team-red.e370c26ea14736589a36.png",
+    "static/media/team-blue.png": "/static/media/team-blue.5712b15c1d7cff816f9a.png",
+    "static/media/icon.svg": "/static/media/icon.f103bea13646a4bdae4a.svg",
+    "static/media/icon-white.svg": "/static/media/icon-white.cae30ccb877ebd82907b.svg",
+    "static/media/gameplay.svg": "/static/media/gameplay.d7df7181fdeee1f759f4.svg",
+    "static/media/tv-and-icon.svg": "/static/media/tv-and-icon.2ac32d4cf328dd7f74fe.svg",
+    "static/media/rank-system.svg": "/static/media/rank-system.82bd18b265cc1203cf9d.svg",
+    "static/media/rotate-phone.svg": "/static/media/rotate-phone.5ebca03851314b329dd1.svg",
+    "static/media/tv-scan-qr.svg": "/static/media/tv-scan-qr.6ca52741fbdc9108a496.svg",
+    "static/media/wave.svg": "/static/media/wave.519b681d2ecf35c37be5.svg",
+    "index.html": "/index.html",
+    "static/media/stonks-arrow.svg": "/static/media/stonks-arrow.6ca550e3954dae1e295b.svg",
+    "static/media/lvls-up.svg": "/static/media/lvls-up.6821dae8b1de381329b2.svg",
+    "main.3cda7748.css.map": "/static/css/main.3cda7748.css.map",
+    "main.20c66fae.js.map": "/static/js/main.20c66fae.js.map",
+    "787.76c2bc41.chunk.js.map": "/static/js/787.76c2bc41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cda7748.css",
+    "static/js/main.20c66fae.js"
+  ]
+}
